@@ -9,10 +9,14 @@
     "criteria": {
       "minecraft:taiga": "2024-06-29 22:02:58 +0000",
       "minecraft:windswept_hills": "2024-06-29 22:07:42 +0000",
+      "minecraft:beach": "2024-06-30 09:09:06 +0000",
       "minecraft:river": "2024-06-29 22:03:09 +0000",
       "minecraft:swamp": "2024-06-29 22:07:59 +0000",
       "minecraft:forest": "2024-06-29 22:01:11 +0000",
       "minecraft:windswept_forest": "2024-06-29 22:07:41 +0000",
+      "minecraft:ocean": "2024-06-30 09:09:18 +0000",
+      "minecraft:flower_forest": "2024-06-30 09:09:23 +0000",
+      "minecraft:meadow": "2024-06-30 09:12:57 +0000",
       "minecraft:windswept_gravelly_hills": "2024-06-29 22:21:20 +0000",
       "minecraft:plains": "2024-06-29 22:21:52 +0000"
     },
@@ -280,6 +284,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-06-29 22:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-06-30 09:07:54 +0000"
     },
     "done": true
   },
